@@ -1,0 +1,21 @@
+
+fsquid:S2166"CRename this class to remove "Exception" or correct its inheritance.(‘Íû”ûÿÿÿÿ8Ó³ÉÀ-
+V"squid:SwitchLastCaseIsDefaultCheck
+""Add a default case to this switch.(ìúÇV8®¤ÒÂ-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ò…µ8®¤ÒÂ-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÕÁçÇÿÿÿÿÿ8®¤ÒÂ-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(×ŸŒÚüÿÿÿÿ8®¤ÒÂ-
+[
+squid:S106 "9Replace this use of System.out or System.err by a logger.(ÕÁçÇÿÿÿÿÿ8®¤ÒÂ-
+[
+squid:S106#"9Replace this use of System.out or System.err by a logger.(–¢Õ÷üÿÿÿÿ8®¤ÒÂ-
+asquid:S1226"CIntroduce a new variable instead of reusing the parameter "result".(Ş§½¯8®¤ÒÂ-
+asquid:S1226"CIntroduce a new variable instead of reusing the parameter "result".(Îïùº8®¤ÒÂ-
+asquid:S2259"CA "NullPointerException" could be thrown; "array" is nullable here.(Ş§½¯8®¤ÒÂ-
+Xsquid:S1854":Remove this useless assignment to local variable "result".(Ş§½¯8®¤ÒÂ-
+Xsquid:S1854":Remove this useless assignment to local variable "result".(Îïùº8®¤ÒÂ-
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8®¤ÒÂ-
+Fsquid:S1148!"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8®¤ÒÂ-

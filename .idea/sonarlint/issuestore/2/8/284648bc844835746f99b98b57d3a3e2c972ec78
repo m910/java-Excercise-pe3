@@ -1,0 +1,10 @@
+
+j$squid:AssignmentInSubExpressionCheck	".Extract the assignment out of this expression.(„¢ş„üÿÿÿÿ8—äÓÂ-
+[
+squid:S106	"9Replace this use of System.out or System.err by a logger.(„¢ş„üÿÿÿÿ8—äÓÂ-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ìĞûÿÿÿÿ8—äÓÂ-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(œŒé’ıÿÿÿÿ8—äÓÂ-
+_squid:S2166"CRename this class to remove "Exception" or correct its inheritance.(©ë·ıÿÿÿÿ
+esquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(¨îŒŞ8—äÓÂ-
